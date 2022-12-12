@@ -1,0 +1,533 @@
+{
+    "Carrot Cake": {
+        "ingredients": [
+            ["Rare", "Carrot", 1, "KIRBY"],
+            ["Common", "Egg", 1, "MARIO"],
+            ["Rare", "Cake Mix", 1, "MARIO"],
+            ["Rare", "Cane Sugar", 1, "BOTW"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"]
+        ],
+        "price": 225,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571155685703680/carrotcake.png",
+        "XP": 50
+    },
+    "Carrot Stew": {
+        "ingredients": [
+            ["Rare", "Carrot", 2, "KIRBY"],
+            ["Common", "Fresh Milk", 1, "BOTW"],
+            ["Common", "Maxim Tomato", 2, "KIRBY"]
+        ],
+        "price": 175,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571381737324565/carrotstew.png",
+        "XP": 50
+    },
+    "Cream of Mushroom Soup": {
+        "ingredients": [
+            ["Common", "Fresh Milk", 1, "BOTW"],
+            ["Common", "Ultra Shroom", 2, "MARIO"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"],
+            ["Very Rare", "Big Hearty Truffle", 1, "BOTW"]
+        ],
+        "price": 225,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571620698488852/creamofmushroomsoup.png",
+        "XP": 50
+    },
+    "Cream of Vegetable Soup": {
+        "ingredients": [
+            ["Common", "Fresh Milk", 1, "BOTW"],
+            ["Common", "Ultra Shroom", 1, "MARIO"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"],
+            ["Rare", "Carrot", 1, "KIRBY"],
+            ["Very Rare", "Big Hearty Truffle", 1, "BOTW"]
+        ],
+        "price": 250,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571634418712586/creamofvegetablesoup.png",
+        "XP": 50
+    },
+    "Creamy Heart Soup": {
+        "ingredients": [
+            ["Legendary", "Big Hearty Radish", 2, "BOTW"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"],
+            ["Very Rare", "Courser Bee Honey", 1, "BOTW"],
+            ["Common", "Ultra Shroom", 1, "MARIO"]
+        ],
+        "price": 675,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571800714084372/creamyheartsoup.png",
+        "XP": 50
+    },
+    "Creamy Meat Soup": {
+        "ingredients": [
+            ["Common", "Fresh Milk", 1, "BOTW"],
+            ["Common", "Raw Gourmet Meat", 3, "BOTW"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 125,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571817697476608/creamymeatsoup.png",
+        "XP": 50
+    },
+    "Creamy Seafood Soup": {
+        "ingredients": [
+            ["Common", "Fresh Milk", 1, "BOTW"],
+            ["Legendary", "Blue Marlin", 1, "AC"],
+            ["Very Rare", "Crucian Carp", 3, "AC"]
+        ],
+        "price": 650,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571839592005632/creamyseafoodsoup.png",
+        "XP": 50
+    },
+    "Curry Pilaf": {
+        "ingredients": [
+            ["Very Rare", "Dried Pasta", 1, "MARIO"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"],
+            ["Common", "Egg", 1, "MARIO"],
+            ["Common", "Goat Butter", 1, "BOTW"],
+            ["Rare", "Hylian Rice", 1, "BOTW"]
+        ],
+        "price": 275,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571861262663730/currypilaf.png",
+        "XP": 50
+    },
+    "Curry Rice": {
+        "ingredients": [
+            ["Rare", "Hylian Rice", 2, "BOTW"],
+            ["Common", "Cherry", 1, "AC"],
+            ["Common", "Raw Gourmet Meat", 2, "BOTW"]
+        ],
+        "price": 175,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571878007373854/curryrice.png",
+        "XP": 50
+    },
+    "Egg Pudding": {
+        "ingredients": [
+            ["Common", "Fresh Milk", 1, "BOTW"],
+            ["Common", "Egg", 1, "MARIO"],
+            ["Legendary", "Miracle Fruit", 1, "KIRBY"],
+            ["Rare", "Cane Sugar", 1, "BOTW"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"]
+        ],
+        "price": 400,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840571892326727710/eggpudding.png",
+        "XP": 50
+    },
+    "Fragrant Mushroom Sauté": {
+        "ingredients": [
+            ["Common", "Ultra Shroom", 3, "MARIO"],
+            ["Very Rare", "Big Hearty Truffle", 1, "BOTW"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"]
+        ],
+        "price": 200,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572175130820678/fragrantmushroomsaute.png",
+        "XP": 50
+    },
+    "Fish Pie": {
+        "ingredients": [
+            ["Legendary", "Blue Marlin", 1, "AC"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"],
+            ["Common", "Goat Butter", 1, "BOTW"],
+            ["Very Rare", "Crucian Carp", 2, "AC"]
+        ],
+        "price": 575,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572215732600862/fishpie.png",
+        "XP": 50
+    },
+    "Egg Tart": {
+        "ingredients": [
+            ["Rare", "Tabantha Wheat", 1, "BOTW"],
+            ["Common", "Egg", 2, "MARIO"],
+            ["Rare", "Cane Sugar", 1, "BOTW"],
+            ["Common", "Goat Butter", 1, "BOTW"]
+        ],
+        "price": 175,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572237769605120/eggtart.png",
+        "XP": 50
+    },
+    "Glazed Meat": {
+        "ingredients": [
+            ["Common", "Raw Gourmet Meat", 5, "BOTW"]
+        ],
+        "price": 125,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572502094512138/glazedveggies.png",
+        "XP": 50
+    },
+    "Glazed Mushrooms": {
+        "ingredients": [
+            ["Very Rare", "Big Hearty Truffle", 2, "BOTW"],
+            ["Common", "Ultra Shroom", 3, "MARIO"]
+        ],
+        "price": 325,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572537268076554/glazedmushrooms.png",
+        "XP": 50
+    },
+    "Fried Wild Greens": {
+        "ingredients": [
+            ["Rare", "Carrot", 2, "KIRBY"],
+            ["Legendary", "Miracle Fruit", 1, "KIRBY"],
+            ["Common", "Maxim Tomato", 2, "KIRBY"]
+        ],
+        "price": 400,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572580712808468/friedwildgreens.png",
+        "XP": 50
+    },
+    "Fried Egg and Rice": {
+        "ingredients": [
+            ["Common", "Egg", 2, "MARIO"],
+            ["Rare", "Hylian Rice", 3, "BOTW"]
+        ],
+        "price": 200,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572598664429578/friedeggandrice.png",
+        "XP": 50
+    },
+    "Fruit Pie": {
+        "ingredients": [
+            ["Legendary", "Miracle Fruit", 1, "KIRBY"],
+            ["Rare", "Orange", 1, "AC"],
+            ["Common", "Cherry", 1, "AC"],
+            ["Rare", "Cake Mix", 1, "MARIO"],
+            ["Very Rare", "Durian", 1, "AC"]
+        ],
+        "price": 500,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572617110192198/fruitpie.png",
+        "XP": 50
+    },
+    "Fruit and Mushroom Mix": {
+        "ingredients": [
+            ["Very Rare", "Big Hearty Truffle", 1, "BOTW"],
+            ["Rare", "Orange", 1, "AC"],
+            ["Common", "Cherry", 1, "AC"],
+            ["Common", "Ultra Shroom", 1, "MARIO"],
+            ["Very Rare", "Durian", 1, "AC"]
+        ],
+        "price": 350,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572642050441247/fruitandmushroommix.png",
+        "XP": 50
+    },
+    "Fried Bananas": {
+        "ingredients": [
+            ["Rare", "Banana", 2, "KIRBY"],
+            ["Legendary", "Coconut", 1, "MARIO"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"],
+            ["Rare", "Cane Sugar", 1, "BOTW"]
+        ],
+        "price": 450,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840572660941193216/friedbananas.png",
+        "XP": 50
+    },
+    "Gourmet Poultry Pilaf": {
+        "ingredients": [
+            ["Very Rare", "Dried Pasta", 1, "MARIO"],
+            ["Common", "Raw Gourmet Meat", 1, "BOTW"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"],
+            ["Common", "Egg", 1, "MARIO"],
+            ["Common", "Goat Butter", 1, "BOTW"]
+        ],
+        "price": 275,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840573228057362472/gourmetpoultrypilaf.png",
+        "XP": 50
+    },
+    "Gourmet Poultry Curry": {
+        "ingredients": [
+            ["Common", "Raw Gourmet Meat", 2, "BOTW"],
+            ["Very Rare", "Dried Pasta", 1, "MARIO"],
+            ["Rare", "Carrot", 1, "KIRBY"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 250,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840573238430138388/gourmetpoultrycurry.png",
+        "XP": 50
+    },
+    "Gourmet Meat Stew": {
+        "ingredients": [
+            ["Common", "Raw Gourmet Meat", 3, "BOTW"],
+            ["Rare", "Carrot", 1, "KIRBY"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 150,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840573248349798410/gourmetmeatstew.png",
+        "XP": 50
+    },
+    "Gourmet Meat and Seafood Fry": {
+        "ingredients": [
+            ["Very Rare", "Crucian Carp", 1, "AC"],
+            ["Common", "Cherry", 1, "AC"],
+            ["Common", "Raw Gourmet Meat", 2, "BOTW"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 225,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840573512858206208/gourmetmeatandseafoodfry.png",
+        "XP": 50
+    },
+    "Honey Candy": {
+        "ingredients": [
+            ["Very Rare", "Courser Bee Honey", 3, "BOTW"],
+            ["Very Rare", "Durian", 2, "AC"]
+        ],
+        "price": 625,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840573866366730240/honeycandy.png",
+        "XP": 50
+    },
+    "Honey Crepe": {
+        "ingredients": [
+            ["Legendary", "Coconut", 1, "MARIO"],
+            ["Very Rare", "Courser Bee Honey", 1, "BOTW"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"],
+            ["Common", "Egg", 1, "MARIO"],
+            ["Rare", "Cane Sugar", 1, "BOTW"]
+        ],
+        "price": 750,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840573881643433994/honeycrepe.png",
+        "XP": 50
+    },
+    "Honeyed Apples": {
+        "ingredients": [
+            ["Very Rare", "Courser Bee Honey", 1, "BOTW"],
+            ["Common", "Goat Butter", 1, "BOTW"],
+            ["Rare", "Cane Sugar", 1, "BOTW"],
+            ["Very Rare", "Gem Apple", 2, "KIRBY"]
+        ],
+        "price": 450,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840573897949577246/honeyedapple.png",
+        "XP": 50
+    },
+    "Hot Buttered Apples": {
+        "ingredients": [
+            ["Common", "Goat Butter", 2, "BOTW"],
+            ["Very Rare", "Gem Apple", 2, "KIRBY"],
+            ["Legendary", "Coconut", 1, "MARIO"]
+        ],
+        "price": 550,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840573915243479070/hotbutteredapple.png",
+        "XP": 50
+    },
+    "Honeyed Fruits": {
+        "ingredients": [
+            ["Common", "Cherry", 1, "AC"],
+            ["Very Rare", "Gem Apple", 1, "KIRBY"],
+            ["Very Rare", "Courser Bee Honey", 1, "BOTW"],
+            ["Very Rare", "Durian", 1, "AC"],
+            ["Rare", "Orange", 1, "AC"]
+        ],
+        "price": 450,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840573931576229888/honeyedfruits.png",
+        "XP": 50
+    },
+    "Meat Curry": {
+        "ingredients": [
+            ["Rare", "Hylian Rice", 2, "BOTW"],
+            ["Common", "Raw Gourmet Meat", 3, "BOTW"]
+        ],
+        "price": 175,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840574274166849546/meatcurry.png",
+        "XP": 50
+    },
+    "Meat Pie": {
+        "ingredients": [
+            ["Rare", "Tabantha Wheat", 1, "BOTW"],
+            ["Common", "Raw Gourmet Meat", 3, "BOTW"],
+            ["Common", "Goat Butter", 1, "BOTW"]
+        ],
+        "price": 150,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840574285474037770/meatpie.png",
+        "XP": 50
+    },
+    "Meat Stew": {
+        "ingredients": [
+            ["Common", "Raw Gourmet Meat", 2, "BOTW"],
+            ["Rare", "Carrot", 2, "KIRBY"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 175,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840574308594089984/meatstew.png",
+        "XP": 50
+    },
+    "Meat-stuffed Pumpkin": {
+        "ingredients": [
+            ["Legendary", "Fortified Pumpkin", 2, "BOTW"],
+            ["Common", "Raw Gourmet Meat", 2, "BOTW"],
+            ["Rare", "Carrot", 1, "KIRBY"]
+        ],
+        "price": 600,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840574318022361088/meat-stuffedpumpkin.png",
+        "XP": 50
+    },
+    "Meaty Rice Balls": {
+        "ingredients": [
+            ["Rare", "Hylian Rice", 3, "BOTW"],
+            ["Common", "Raw Gourmet Meat", 2, "BOTW"]
+        ],
+        "price": 200,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840574329178685440/meatyriceballs.png",
+        "XP": 50
+    },
+    "Mushroom Rice Balls": {
+        "ingredients": [
+            ["Rare", "Hylian Rice", 2, "BOTW"],
+            ["Common", "Ultra Shroom", 2, "MARIO"],
+            ["Very Rare", "Big Hearty Truffle", 1, "BOTW"]
+        ],
+        "price": 275,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840574676543340544/mushroomriceballs.png",
+        "XP": 50
+    },
+    "Mushroom Omelet": {
+        "ingredients": [
+            ["Common", "Ultra Shroom", 2, "MARIO"],
+            ["Very Rare", "Dried Pasta", 1, "MARIO"],
+            ["Common", "Egg", 1, "MARIO"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"]
+        ],
+        "price": 250,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840574687917506580/mushroomomelet.png",
+        "XP": 50
+    },
+    "Mushroom Risotto": {
+        "ingredients": [
+            ["Common", "Ultra Shroom", 2, "MARIO"],
+            ["Very Rare", "Dried Pasta", 1, "MARIO"],
+            ["Common", "Goat Butter", 1, "BOTW"],
+            ["Very Rare", "Big Hearty Truffle", 1, "BOTW"]
+        ],
+        "price": 325,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840574728506703882/mushroomrisotto.png",
+        "XP": 50
+    },
+    "Egg Omelet": {
+        "ingredients": [
+            ["Common", "Cherry", 2, "AC"],
+            ["Common", "Egg", 2, "MARIO"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"]
+        ],
+        "price": 150,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575032995741776/omelet.png",
+        "XP": 50
+    },
+    "Pepper Steak": {
+        "ingredients": [
+            ["Common", "Raw Gourmet Meat", 3, "BOTW"],
+            ["Common", "Cherry", 2, "AC"]
+        ],
+        "price": 125,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575044550787082/peppersteak.png",
+        "XP": 50
+    },
+    "Plain Crepe": {
+        "ingredients": [
+            ["Common", "Goat Butter", 1, "BOTW"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"],
+            ["Common", "Egg", 1, "MARIO"],
+            ["Rare", "Cane Sugar", 1, "BOTW"],
+            ["Common", "Fresh Milk", 1, "BOTW"]
+        ],
+        "price": 175,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575067540160512/plaincrepe.png",
+        "XP": 50
+    },
+    "Prime Poultry Pilaf": {
+        "ingredients": [
+            ["Common", "Raw Gourmet Meat", 2, "BOTW"],
+            ["Very Rare", "Dried Pasta", 2, "MARIO"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 200,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575095869014026/primepoultrypilaf.png",
+        "XP": 50
+    },
+    "Prime Poultry Curry": {
+        "ingredients": [
+            ["Rare", "Hylian Rice", 1, "BOTW"],
+            ["Rare", "Carrot", 1, "KIRBY"],
+            ["Common", "Raw Gourmet Meat", 3]
+        ],
+        "price": 175,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575106594242571/primepoultrycurry.png",
+        "XP": 50
+    },
+    "Prime Meat Stew": {
+        "ingredients": [
+            ["Rare", "Hylian Rice", 1, "BOTW"],
+            ["Common", "Raw Gourmet Meat", 3, "BOTW"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 150,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575116316377088/primemeatstew.png",
+        "XP": 50
+    },
+    "Prime Meat Curry": {
+        "ingredients": [
+            ["Rare", "Hylian Rice", 1, "BOTW"],
+            ["Common", "Raw Gourmet Meat", 3, "BOTW"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 150,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575128017305610/primemeatcurry.png",
+        "XP": 50
+    },
+    "Meat and Seafood Fry": {
+        "ingredients": [
+            ["Common", "Raw Gourmet Meat", 2, "BOTW"],
+            ["Common", "Cherry", 1, "AC"],
+            ["Very Rare", "Crucian Carp", 2, "AC"]
+        ],
+        "price": 325,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575176629682186/primemeatandseafoodfry.png",
+        "XP": 50
+    },
+    "Pumpkin Stew": {
+        "ingredients": [
+            ["Rare", "Carrot", 1, "KIRBY"],
+            ["Legendary", "Fortified Pumpkin", 2, "BOTW"],
+            ["Common", "Raw Gourmet Meat", 1, "BOTW"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 600,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575205546262538/pumpkinstew.png",
+        "XP": 50
+    },
+    "Pumpkin Pie": {
+        "ingredients": [
+            ["Legendary", "Fortified Pumpkin", 1, "BOTW"],
+            ["Common", "Egg", 1, "MARIO"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"],
+            ["Rare", "Cake Mix", 1, "MARIO"],
+            ["Rare", "Cane Sugar", 1, "BOTW"]
+        ],
+        "price": 425,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/840575216911515658/pumpkinpie.png",
+        "XP": 50
+    },
+    "Fruit Cake": {
+        "ingredients": [
+            ["Rare", "Orange", 1, "AC"],
+            ["Common", "Cherry", 1, "AC"],
+            ["Legendary", "Miracle Fruit", 1, "KIRBY"],
+            ["Very Rare", "Durian", 1, "AC"],
+            ["Rare", "Cake Mix", 1, "MARIO"]
+        ],
+        "price": 500,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/841321643132583966/fruitcake.png",
+        "XP": 50
+    },
+    "Salmon Meunière": {
+        "ingredients": [
+            ["Common", "Goat Butter", 1, "BOTW"],
+            ["Rare", "Tabantha Wheat", 1, "BOTW"],
+            ["Legendary", "Blue Marlin", 1, "AC"],
+            ["Very Rare", "Crucian Carp", 1, "AC"],
+            ["Common", "Maxim Tomato", 1, "KIRBY"]
+        ],
+        "price": 475,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/841383741477355580/salmonmeuniere.png",
+        "XP": 50
+    },
+    "Monster Cake": {
+        "ingredients": [
+            ["Legendary", "Blue Marlin", 1, "AC"],
+            ["Legendary", "Miracle Fruit", 1, "KIRBY"],
+            ["Legendary", "Big Hearty Radish", 1, "BOTW"],
+            ["Legendary", "Coconut", 1, "MARIO"],
+            ["Legendary", "Fortified Pumpkin", 1, "BOTW"]
+        ],
+        "price": 1250,
+        "image": "https://cdn.discordapp.com/attachments/840335088180527135/841394550277931089/monstercake.png",
+        "XP": 50
+    }
+}
